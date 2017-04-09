@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<company>
+	<staff id ="101" job ="tester " >
+		<firstname asli = "eskrim" >yong</firstname>
+		<lastname kode ="jamesbond" makanan = "lobster">mook kim</lastname>
+                <lastname nama = "mook kim">mook kim</lastname>
+                <lastname kodok="billy">mook kim</lastname>
+                <lastname>mook kim</lastname>
+		<nickname>mkyong</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff>
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<nickname>fong fong</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
